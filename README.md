@@ -1,5 +1,5 @@
 # Ultrasonic-radar-station
-<img src="![IMG_5240](https://github.com/user-attachments/assets/78b96133-5f41-40c3-b929-3a2ef3befdda)" width="48">
+<img src="![IMG_5240](https://github.com/user-attachments/assets/78b96133-5f41-40c3-b929-3a2ef3befdda)" width="480">
 Hello everyone!
 
 Just a couple of disclaimers before I get into the technical aspects:
@@ -66,7 +66,7 @@ I’m honestly not sure what else I should add here yet
 If you have ideas, suggestions, or run into problems, feel free to leave a comment or issue wherever GitHub allows that.
 
 And to anyone reviewing or voting on this project. I hope I could convince you! Please keep in mind that I’m still a beginner, and this project was mainly about learning and experimenting.
-![IMG_5234](https://github.com/user-attachments/assets/de78cfe5-bdf4-4ee4-8e1e-b5ca63c73dfd)
-
 
 Thanks for checking it out!
+
+![IMG_5234](https://github.com/user-attachments/assets/de78cfe5-bdf4-4ee4-8e1e-b5ca63c73dfd)
