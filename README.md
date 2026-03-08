@@ -28,6 +28,9 @@ This project is a simple “radar” built using:
 
 - A 3D-printed case/tower
 
+  <img width="1055" height="703" alt="Screenshot 2026-03-08 134902" src="https://github.com/user-attachments/assets/8b6a810e-add1-4217-a093-c528e3b87410" />
+
+
 The Arduino reads distance data from the ultrasonic sensor and sends it via the serial port to a Processing program running on the connected computer. After each reading, the servo moves one step, and the process repeats.
 
 The Processing program reads the angle and distance values from the Arduino and visualizes them as a radar display on the screen.
