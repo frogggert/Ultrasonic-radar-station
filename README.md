@@ -1,5 +1,6 @@
 # Ultrasonic-radar-station
 <img src="https://github.com/user-attachments/assets/78b96133-5f41-40c3-b929-3a2ef3befdda" width="480">
+
 Hello everyone!
 
 Just a couple of disclaimers before I get into the technical aspects:
